@@ -153,6 +153,16 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
+.taylorCook{
+    margin: auto;
+    margin-top: 12px;
+}
+
+.columns{
+    display: flex;
+    flex-direction: column;
+}
+
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
@@ -1050,3 +1060,4 @@ h4 {
         text-align: center;
     }
 }
+
